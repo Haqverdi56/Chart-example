@@ -1,0 +1,24 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #213547;
+  color: white;
+  height: 100vh;
+}
+
+.chart-div {
+  position: relative;
+  height: 300px;
+}
+
+.toogle-3d {
+  position: absolute;
+  top: 40;
+  right: 10;
+  padding: 1rem;
+  color: red;
+}

@@ -1,0 +1,11 @@
+.chart-div {
+    position: relative;
+}
+
+.toogle-3d {
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding: 1rem;
+    color: red;
+}
